@@ -33,16 +33,16 @@ Config files for the arcade controller
 | Vin         |                      |                   |                  |               |                |
 
 Joystick Left Player
-
+```
     4
     |
  6--+--7
     |
     5
-
+```
 
 Examples from another github
-
+```
     U   I   O
       \ | /
        \|/ 
@@ -58,3 +58,4 @@ Examples from another github
        /|\
       / | \
     Z   X   C
+```
