@@ -28,9 +28,9 @@ Config files for the arcade controller
 | 21          | R_K_C                | C                 |                  | X             |                |
 | 22          | R_K_V                | V                 |                  | L             |                |
 | 23          | R_K_B                | B                 |                  | R             |                |
-| 3.3V        |                      |             | |
-| AGND        |                      |             | |
-| Vin         |                      |             | |
+| 3.3V        |                      |                   |                  |               |                | 
+| AGND        |                      |                   |                  |               |                |
+| Vin         |                      |                   |                  |               |                |
 
 
 
