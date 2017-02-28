@@ -34,12 +34,11 @@ Config files for the arcade controller
 
 
 
-   4     / \ 
-   |     \ /
-6--+--7  
-   |      
-   5     / \
-         \ /
+   4
+   |
+6--+--7
+   |
+   5
          
          
 Bounce  = Bounce(0, 10);  //  B
