@@ -34,11 +34,11 @@ Config files for the arcade controller
 
 Joystick Left Player
 
-   4
-   |
-6--+--7
-   |
-   5
+    4
+    |
+ 6--+--7
+    |
+    5
 
 
 Examples from another github
