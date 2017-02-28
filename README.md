@@ -32,6 +32,14 @@ Config files for the arcade controller
 | AGND        |                      |             | |
 | Vin         |                      |             | |
 
+
+
+   4     / \ 
+   |     \ /
+6--+--7  
+   |      
+   5     / \
+         \ /
 Bounce  = Bounce(0, 10);  //  B
 Bounce  = Bounce(1, 10);  //  Y      10 = 10 ms debounce time
 Bounce  = Bounce(2, 10);  //  Select which is appropriate for
